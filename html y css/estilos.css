@@ -1,0 +1,14 @@
+h1{
+    /*atributos para h1
+    color,fondo y tamaño
+    */
+    color: #047228;
+    background-color: rgb(231, 216, 6);
+    font-size: 40px
+}
+h2{
+    /*atributos para h2
+    color
+    */
+    color: #452e70
+}
